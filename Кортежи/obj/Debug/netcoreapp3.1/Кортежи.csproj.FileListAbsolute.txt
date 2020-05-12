@@ -1,0 +1,11 @@
+G:\C#Project\Кортежи\Кортежи\bin\Debug\netcoreapp3.1\Кортежи.exe
+G:\C#Project\Кортежи\Кортежи\bin\Debug\netcoreapp3.1\Кортежи.deps.json
+G:\C#Project\Кортежи\Кортежи\bin\Debug\netcoreapp3.1\Кортежи.runtimeconfig.json
+G:\C#Project\Кортежи\Кортежи\bin\Debug\netcoreapp3.1\Кортежи.runtimeconfig.dev.json
+G:\C#Project\Кортежи\Кортежи\bin\Debug\netcoreapp3.1\Кортежи.dll
+G:\C#Project\Кортежи\Кортежи\bin\Debug\netcoreapp3.1\Кортежи.pdb
+G:\C#Project\Кортежи\Кортежи\obj\Debug\netcoreapp3.1\Кортежи.csprojAssemblyReference.cache
+G:\C#Project\Кортежи\Кортежи\obj\Debug\netcoreapp3.1\Кортежи.AssemblyInfoInputs.cache
+G:\C#Project\Кортежи\Кортежи\obj\Debug\netcoreapp3.1\Кортежи.AssemblyInfo.cs
+G:\C#Project\Кортежи\Кортежи\obj\Debug\netcoreapp3.1\Кортежи.dll
+G:\C#Project\Кортежи\Кортежи\obj\Debug\netcoreapp3.1\Кортежи.pdb
